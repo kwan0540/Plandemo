@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Plandemo/static/css/main.41f87067.chunk.css",
+    "main.js": "/Plandemo/static/js/main.e4578511.chunk.js",
+    "main.js.map": "/Plandemo/static/js/main.e4578511.chunk.js.map",
+    "runtime-main.js": "/Plandemo/static/js/runtime-main.901c29e8.js",
+    "runtime-main.js.map": "/Plandemo/static/js/runtime-main.901c29e8.js.map",
+    "static/js/2.dd8f0058.chunk.js": "/Plandemo/static/js/2.dd8f0058.chunk.js",
+    "static/js/2.dd8f0058.chunk.js.map": "/Plandemo/static/js/2.dd8f0058.chunk.js.map",
+    "static/js/3.b7dadb71.chunk.js": "/Plandemo/static/js/3.b7dadb71.chunk.js",
+    "static/js/3.b7dadb71.chunk.js.map": "/Plandemo/static/js/3.b7dadb71.chunk.js.map",
+    "index.html": "/Plandemo/index.html",
+    "static/css/main.41f87067.chunk.css.map": "/Plandemo/static/css/main.41f87067.chunk.css.map",
+    "static/js/2.dd8f0058.chunk.js.LICENSE.txt": "/Plandemo/static/js/2.dd8f0058.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.901c29e8.js",
+    "static/js/2.dd8f0058.chunk.js",
+    "static/css/main.41f87067.chunk.css",
+    "static/js/main.e4578511.chunk.js"
+  ]
+}
