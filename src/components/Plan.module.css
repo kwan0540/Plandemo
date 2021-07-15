@@ -1,0 +1,16 @@
+.PlanName ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+ .item1 {
+     display: flex;
+     justify-content: space-around;
+ }
+
+ .item1 li {
+     width: 150px;
+ }
+ .item li{
+     left: 300px;
+ }

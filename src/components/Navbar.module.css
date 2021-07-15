@@ -1,0 +1,13 @@
+.Navbar li {
+    list-style: none;
+    
+}
+
+.Navbar {
+    top:0%;
+    margin-top: 0%;
+    display: flex;
+    justify-content: center;
+    border-bottom: solid rgb(184, 179, 179) 1px;
+    margin-bottom: 10px;
+}

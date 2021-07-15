@@ -1,0 +1,19 @@
+.jform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2px;
+}
+
+.jform textarea{
+    padding: 10px;
+    height: 500px;
+    width: 500px;
+    resize: none;
+    white-space:pre-wrap;
+}
+
+button {
+    margin: 10px;
+    cursor: pointer;
+}
